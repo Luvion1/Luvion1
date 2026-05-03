@@ -22,7 +22,7 @@
 <a href="https://github.com/Luvion1/subscribers">
   <img src="https://img.shields.io/github/watchers/Luvion1?style=social" alt="GitHub Watchers" />
 </a>
-<a href="https://github.com/Luvion1?tab=followers">
+<a href="https://github.com/Luvion1?tab=following">
   <img src="https://img.shields.io/github/following/Luvion1?label=Following&style=social" alt="GitHub Following" />
 </a>
 </p>
