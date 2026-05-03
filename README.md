@@ -1,93 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm Luvion
-
-[![GitHub followers](https://img.shields.io/github/followers/Luvion1?style=for-the-badge&logo=github)](https://github.com/Luvion1)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I%27m+Luvion;Systems+%26+Infrastructure+Engineer;Rust+%7C+Go+%7C+TypeScript" alt="Typing SVG" />
 
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Luvion1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvion1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<h1 align="center">Hello, I'm <a href="https://github.com/Luvion1">Luvion</a> 👋</h1>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=radical&langs_count=10)
+<h3>
+🚀 Building high-performance tools | 🔧 Systems & Infrastructure | 📈 Performance Optimizer
+</h3>
+
+<p align="center">
+<a href="https://github.com/Luvion1">
+  <img src="https://img.shields.io/github/followers/Luvion1?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/Luvion1?tab=stars">
+  <img src="https://img.shields.io/github/stars/Luvion1?style=social" alt="GitHub Stars" />
+</a>
+<a href="https://github.com/Luvion1/subscribers">
+  <img src="https://img.shields.io/github/watchers/Luvion1?style=social" alt="GitHub Watchers" />
+</a>
+<a href="https://github.com/Luvion1?tab=followers">
+  <img src="https://img.shields.io/github/following/Luvion1?label=Following&style=social" alt="GitHub Following" />
+</a>
+</p>
 
 </div>
 
-## 🔥 Contribution Streak
+<hr>
 
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Luvion1&theme=radical)
-
+<a href="https://github.com/Luvion1">
+<img src="https://github-profile-trophy.vercel.app/?username=Luvion1&theme=onedark&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Luvion's GitHub trophies"/>
+</a>
 </div>
 
----
+<hr>
 
-## 💻 Tech Stack
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-
-**Languages & Frameworks:**
-
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-
+<a href="https://github.com/Luvion1">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Luvion1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=react&langs_count=10"/>
+</a>
 </div>
 
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **[naru](https://github.com/Luvion1/naru)** | High-performance, security-first CLI tool for structured and schema-aware application configuration management | Rust | ⭐ 1 |
-| **[koda](https://github.com/Luvion1/koda)** | Modern, high-performance log tailer with TUI | Rust | ⭐ 1 |
-| **[mire](https://github.com/Luvion1/mire)** | High-performance structured logging library for Go with zero-allocation design | Go | ⭐ 1 |
-
----
-
-## 📈 Activity Graph
-
 <div align="center">
-
-![Luvion1's GitHub activity graph](https://github-readme-activity-graph.herokuapp.com/graph?username=Luvion1&theme=react-dark)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luvion1&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
----
+<hr>
 
-## 💡 Currently Working On
+<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=rust,go,ts,js,html,css,nodejs,py,docker,kubernetes,postgres,redis,linux,git,vim&perline=10" />
+</div>
 
-- 🔨 Building high-performance CLI tools in Rust
-- 🚀 Developing microservices with Go & gRPC  
-- 📚 Learning about systems programming & low-level optimizations
-- ☁️ Exploring cloud-native technologies (Kubernetes, Docker)
+<hr>
 
----
+<h2 align="center">🔥 Featured Projects</h2>
+<div align="center">
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Language</th>
+<th>Stars</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Luvion1/naru">naru</a></td>
+<td>High-performance, security-first CLI tool for structured configuration management</td>
+<td><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust"></td>
+<td>⭐ 1</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Luvion1/koda">koda</a></td>
+<td>Modern, high-performance log tailer with TUI</td>
+<td><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust"></td>
+<td>⭐ 1</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Luvion1/mire">mire</a></td>
+<td>High-performance structured logging library for Go with zero-allocation design</td>
+<td><img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go"></td>
+<td>⭐ 1</td>
+</tr>
+</table>
+</div>
 
-## 🤝 Open To
+<hr>
 
-- 💼 Freelance & consulting projects
-- 🔍 Code review & collaboration
-- 🎤 Tech talks & workshops
-- 📝 Technical writing & documentation
-- 🌍 Open source contributions
+<h2 align="center">📈 Activity Graph</h2>
+<div align="center">
+<a href="https://github.com/Luvion1">
+<img src="https://github-readme-activity-graph.herokuapp.com/graph?username=Luvion1&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</a>
+</div>
 
----
+<hr>
+
+<h2 align="center">💡 Currently Working On</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvion1&repo=nuru&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvion1&repo=koda&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvion1&repo=mire&theme=react" />
+</div>
+
+<hr>
+
+<h2 align="center">🤝 Open To</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Open%20Source%20%7C%20Code%20Review%20%7C%20Mentoring-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Tech%20Talks%20%7C%20Workshops%20%7C%20Writing-orange?style=for-the-badge" />
+</div>
+
+<hr>
 
 <div align="center">
-
-⭐ *Thank you for visiting! Feel free to explore my repositories and don't hesitate to reach out!*
-
-**Updated:** May 2026
-
+<h3>⭐ Thank you for visiting my profile!</h3>
+<p>Feel free to explore my repositories and don't hesitate to reach out!</p>
+<p><em>Updated: May 2026</em></p>
 </div>
