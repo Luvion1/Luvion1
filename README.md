@@ -43,13 +43,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 <a href="https://github.com/Luvion1">
-<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Luvion1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=react&langs_count=10&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luvion1&theme=react" alt="Profile Details"/>
+</a>
+<a href="https://github.com/Luvion1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luvion1&theme=react" alt="Repos per Language"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luvion1&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luvion1&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
 </div>
 
 <hr>
@@ -104,9 +106,15 @@
 
 <h2 align="center">💡 Currently Working On</h2>
 <div align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luvion1&repo=nuru&theme=react&hide_border=true" />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luvion1&repo=koda&theme=react&hide_border=true" />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luvion1&repo=mire&theme=react&hide_border=true" />
+<a href="https://github.com/Luvion1/naru">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-per-view?username=Luvion1&repo=nuru&theme=react" alt="nuru"/>
+</a>
+<a href="https://github.com/Luvion1/koda">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-per-view?username=Luvion1&repo=koda&theme=react" alt="koda"/>
+</a>
+<a href="https://github.com/Luvion1/mire">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-per-view?username=Luvion1&repo=mire&theme=react" alt="mire"/>
+</a>
 </div>
 
 <hr>
