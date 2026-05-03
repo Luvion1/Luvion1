@@ -60,14 +60,10 @@
 
 <hr/>
 
-<!-- Tech Stack -->
+<!-- Tech Stack - Simplified -->
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,html,css,nodejs,py,docker,kubernetes,postgres,redis,linux,git,vim,aws,gcp,terraform,prometheus,grpc,rabbitmq&perline=8&style=for-the-badge" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,mongodb,graphql,rest,ci,cd,nginx&perline=8&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,linux,docker,kubernetes,postgres,redis,git,vim&perline=11&style=for-the-badge" />
 </div>
 
 <hr/>
@@ -81,28 +77,24 @@
       <th>Description</th>
       <th>Language</th>
       <th>Stars</th>
-      <th>Topics</th>
     </tr>
     <tr>
       <td><a href="https://github.com/Luvion1/naru"><b>naru</b></a></td>
-      <td>🛡️ High-performance, security-first CLI tool for structured configuration management</td>
+      <td>🛡️ High-performance CLI tool for configuration management</td>
       <td><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust"></td>
       <td>⭐ 1</td>
-      <td>cli, config, security</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Luvion1/koda"><b>koda</b></a></td>
-      <td>📜 Modern, high-performance log tailer with TUI</td>
+      <td>📜 Modern log tailer with TUI</td>
       <td><img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust"></td>
       <td>⭐ 1</td>
-      <td>cli, tui, logging</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Luvion1/mire"><b>mire</b></a></td>
-      <td>📝 High-performance structured logging library for Go with zero-allocation design</td>
+      <td>📝 High-performance logging for Go</td>
       <td><img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go"></td>
       <td>⭐ 1</td>
-      <td>logging, performance</td>
     </tr>
   </table>
 </div>
@@ -115,22 +107,6 @@
   <a href="https://github.com/Luvion1">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=react-dark&hide_border=true&area=true&area_color=1f6feb&line=58a6ff&point=79c0ff" alt="Activity Graph"/>
   </a>
-</div>
-
-<hr/>
-
-<!-- Dynamic Quote -->
-<h2 align="center">💭 Random Dev Quote</h2>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&animation=true&textColor=58a6ff" alt="quote" />
-</div>
-
-<hr/>
-
-<!-- Open Source Stats -->
-<h2 align="center">📦 Recent Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=react-dark&hide_border=true&type=weekly" alt="weekly" />
 </div>
 
 <hr/>
