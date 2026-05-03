@@ -43,8 +43,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 <a href="https://github.com/Luvion1">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Luvion1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=react&langs_count=10"/>
+<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Luvion1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=react&langs_count=10&hide_border=true"/>
 </a>
 </div>
 
@@ -96,7 +96,7 @@
 <h2 align="center">📈 Activity Graph</h2>
 <div align="center">
 <a href="https://github.com/Luvion1">
-<img src="https://github-readme-activity-graph.herokuapp.com/graph?username=Luvion1&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </a>
 </div>
 
@@ -104,9 +104,9 @@
 
 <h2 align="center">💡 Currently Working On</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvion1&repo=nuru&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvion1&repo=koda&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luvion1&repo=mire&theme=react" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luvion1&repo=nuru&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luvion1&repo=koda&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luvion1&repo=mire&theme=react&hide_border=true" />
 </div>
 
 <hr>
