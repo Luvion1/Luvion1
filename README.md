@@ -11,8 +11,8 @@
   <!-- Animated Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=LUVION&fontSize=70&animation=fadeIn&desc=Systems+%26+Infrastructure+Engineer&fontColor=ffffff" width="100%" />
 
-  <!-- Animated Visitors Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Luvion1&label=Profile%20Views&color=gradient&style=for-the-badge&animation=count" alt="visitors" />
+  <!-- Visitors Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Luvion1&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="visitors" />
 
 </div>
 
@@ -37,10 +37,7 @@
 <!--                    🏆 PROFILE TROPHIES                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L你没1OUXIyKhGNzGO/giphy.gif" width="30" />
-  GitHub Profile Trophies
-</h2>
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
 
 <div align="center">
   <a href="https://github.com/Luvion1">
@@ -132,9 +129,9 @@
 <h2 align="center">🤝 Open To</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Open%20to-Open%20Source%20%7C%20Code%20Review%20%7C%20Mentoring-brightgreen?style=for-the-badge&logo=opensource&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8F%20Open%20to-Tech%20Talks%20%7C%20Workshops%20%7C%20Writing-orange?style=for-the-badge&logo=mic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Open%20Source%20%7C%20Code%20Review%20%7C%20Mentoring-brightgreen?style=for-the-badge&logo=opensource&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Tech%20Talks%20%7C%20Workshops%20%7C%20Writing-orange?style=for-the-badge&logo=mic&logoColor=white" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -173,5 +170,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luvion1&label=total%20profile%20views&color=radical&style=flat" alt="Total Views" />
+  <img src="https://komarev.com/ghpvc/?username=Luvion1&label=total+profile+views&color=0e75b6&style=flat" alt="Total Views" />
 </div>
