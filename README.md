@@ -14,7 +14,7 @@
 
 ## 📱 Social Stats
 
-| [ ![Followers](https://img.shields.io/github/followers/Luvion1?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58a6ff) ](https://github.com/Luvion1?tab=followers) | [ ![Stars](https://img.shields.io/github/stars/Luvion1?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=ff7a72) ](https://github.com/Luvion1?tab=stars) | [ ![Repositories](https://img.shields.io/badge/Repos-5-58a6ff?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/Luvion1?tab=repositories) |
+| [ ![Followers](https://img.shields.io/github/followers/Luvion1?label=Followers&style=for-the-badge&color=58a6ff) ](https://github.com/Luvion1?tab=followers) | [ ![Stars](https://img.shields.io/github/stars/Luvion1?label=Stars&style=for-the-badge&color=ff7a72) ](https://github.com/Luvion1?tab=stars) | [ ![Repos](https://img.shields.io/badge/Repos-5-58a6ff?style=for-the-badge) ](https://github.com/Luvion1?tab=repositories) |
 |:--:|:--:|:--:|
 
 ### 🚀 Building high-performance tools | 🔧 Systems & Infrastructure | 📈 Performance Optimizer
@@ -74,9 +74,9 @@
 
 ## 🤝 Open To
 
-![Open to Freelance](https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge&logo=handshake&logoColor=white)
-![Open to Open Source](https://img.shields.io/badge/Open%20to-Open%20Source%20%7C%20Code%20Review%20%7C%20Mentoring-brightgreen?style=for-the-badge&logo=opensource&logoColor=white)
-![Open to Tech Talks](https://img.shields.io/badge/Open%20to-Tech%20Talks%20%7C%20Workshops%20%7C%20Writing-orange?style=for-the-badge&logo=mic&logoColor=white)
+![Open to Freelance](https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge)
+![Open to Open Source](https://img.shields.io/badge/Open%20to-Open%20Source%20%7C%20Code%20Review%20%7C%20Mentoring-brightgreen?style=for-the-badge)
+![Open to Tech Talks](https://img.shields.io/badge/Open%20to-Tech%20Talks%20%7C%20Workshops%20%7C%20Writing-orange?style=for-the-badge)
 
 ---
 
@@ -95,5 +95,5 @@ Feel free to explore my repositories and do not hesitate to reach out!
 
 *Last updated: May 2026*
 
-[![Total Views](https://komarev.com/ghpvc/?username=Luvion1&label=total+profile+views&color=0e75b6&style=flat)](https://github.com/Luvion1)
+[![Total Views](https://komarev.com/ghpvc/?username=Luvion1&label=total%20profile+20views&color=0e75b6&style=flat)](https://github.com/Luvion1)
 
