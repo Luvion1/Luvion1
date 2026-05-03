@@ -8,12 +8,14 @@
 
 [![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luvion&fontSize=65&animation=blink&fontColor=ffffff)](https://github.com/Luvion1)
 
-[![visitors](https://komarev.com/ghpvc/?username=Luvion1&label=Profile+Views&color=0e75b6&style=for-the-badge&animation=count)](https://github.com/Luvion1)
+[![Profile Views](https://komarev.com/ghpvc/?username=Luvion1&label=Profile%20Views&color=0e75b6&style=for-the-badge&animation=count)](https://github.com/Luvion1)
 
 ---
 
-| [![Followers](https://img.shields.io/github/followers/Luvion1?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58a6ff)](https://github.com/Luvion1?tab=followers) | [![Stars](https://img.shields.io/github/stars/Luvion1?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=ff7a72)](https://github.com/Luvion1?tab=stars) | [![Watchers](https://img.shields.io/github/watchers/Luvion1?label=Watchers&style=for-the-badge&logo=github&logoColor=white&color=79c0ff)](https://github.com/Luvion1?tab=watchers) | [![Following](https://img.shields.io/github/following/Luvion1?label=Following&style=for-the-badge&logo=github&logoColor=white&color=a5d6ff)](https://github.com/Luvion1?tab=following) |
-|:--:|:--:|:--:|:--:|
+## 📱 Social Stats
+
+| [ ![Followers](https://img.shields.io/github/followers/Luvion1?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58a6ff) ](https://github.com/Luvion1?tab=followers) | [ ![Stars](https://img.shields.io/github/stars/Luvion1?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=ff7a72) ](https://github.com/Luvion1?tab=stars) | [ ![Repositories](https://img.shields.io/badge/Repos-5-58a6ff?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/Luvion1?tab=repositories) |
+|:--:|:--:|:--:|
 
 ### 🚀 Building high-performance tools | 🔧 Systems & Infrastructure | 📈 Performance Optimizer
 
