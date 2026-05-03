@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+%F0%9F%8F%BB;I%27m+Luvion;%E2%9A%A1+Systems+%26+Infrastructure+Engineer;%F0%9F%92%BB+Building+High-Performance+Tools;%E2%9A%99%EF%B8%8F+Rust+%7C+Go+%7C+TypeScript)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=LUVION&fontSize=70&animation=fadeIn&desc=Systems+%26+Infrastructure+Engineer&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luvion&fontSize=60&animation=fadeIn&fontColor=ffffff)
 
 ![visitors](https://komarev.com/ghpvc/?username=Luvion1&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
@@ -87,11 +87,11 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontColor=ffffff)
 
 ### ⭐ Thanks for visiting! ⭐
 
-Feel free to explore my repositories and don't hesitate to reach out!
+Feel free to explore my repositories and do not hesitate to reach out!
 
 *Last updated: May 2026*
 
