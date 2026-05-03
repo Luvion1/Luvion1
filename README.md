@@ -95,21 +95,6 @@
 
 <hr>
 
-<h2 align="center">💡 Currently Working On</h2>
-<div align="center">
-  <a href="https://github.com/Luvion1/naru">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-per-view?username=Luvion1&repo=naru&theme=react" alt="naru"/>
-  </a>
-  <a href="https://github.com/Luvion1/koda">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-per-view?username=Luvion1&repo=koda&theme=react" alt="koda"/>
-  </a>
-  <a href="https://github.com/Luvion1/mire">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repo-per-view?username=Luvion1&repo=mire&theme=react" alt="mire"/>
-  </a>
-</div>
-
-<hr>
-
 <h2 align="center">🤝 Open To</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge" />
