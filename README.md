@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Social Stats with Animation -->
+<!-- Social Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luvion1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
@@ -46,11 +46,11 @@
 
 <hr/>
 
-<!-- GitHub Stats with Animation -->
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luvion1&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&text_color=58a6ff&icon_color=79c0ff&title_color=58a6ff" height="180" alt="stats" />
-  <img src="github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff" height="180" alt="languages" />
 </div>
 
 <!-- Animated Streak -->
@@ -60,7 +60,7 @@
 
 <hr/>
 
-<!-- Tech Stack with Animation -->
+<!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,go,ts,js,html,css,nodejs,py,docker,kubernetes,postgres,redis,linux,git,vim,aws,gcp,terraform,prometheus,grpc,rabbitmq&perline=8&style=for-the-badge" />
@@ -72,7 +72,7 @@
 
 <hr/>
 
-<!-- Featured Projects with Animation -->
+<!-- Featured Projects -->
 <h2 align="center">🔥 Featured Projects</h2>
 <div align="center">
   <table>
@@ -130,7 +130,6 @@
 <!-- Open Source Stats -->
 <h2 align="center">📦 Recent Activity</h2>
 <div align="center">
-  <!-- Recent commits widget -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=react-dark&hide_border=true&type=weekly" alt="weekly" />
 </div>
 
@@ -146,7 +145,7 @@
 
 <hr/>
 
-<!-- Contact / Connect -->
+<!-- Contact -->
 <h2 align="center">📫 Connect With Me</h2>
 <div align="center">
   <a href="mailto:samcheng072@gmail.com">
@@ -163,7 +162,7 @@
   <p><em>Last updated: May 2026</em></p>
 </div>
 
-<!-- Dynamic Footer Animation -->
+<!-- Footer Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
