@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/Luvion1">
+<a href="https://github.com/Luvion1?tab=followers">
   <img src="https://img.shields.io/github/followers/Luvion1?label=Followers&style=social" alt="GitHub Followers" />
 </a>
 <a href="https://github.com/Luvion1?tab=stars">
