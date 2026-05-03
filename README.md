@@ -4,18 +4,16 @@
 <!--              Systems & Infrastructure Engineer                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+%F0%9F%8F%BB;I%27m+Luvion;%E2%9A%A1+Systems+%26+Infrastructure+Engineer;%F0%9F%92%BB+Building+High-Performance+Tools;%E2%9A%99%EF%B8%8F+Rust+%7C+Go+%7C+TypeScript)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+%F0%9F%8F%BB;I%27m+Luvion;%E2%9A%A1+Systems+%26+Infrastructure+Engineer;%F0%9F%92%BB+Building+High-Performance+Tools;%E2%9A%99%EF%B8%8F+Rust+%7C+Go+%7C+TypeScript)](https://github.com/Luvion1)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luvion&fontSize=60&animation=fadeIn&fontColor=ffffff)
+[![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luvion&fontSize=65&animation=blink&fontColor=ffffff)](https://github.com/Luvion1)
 
-![visitors](https://komarev.com/ghpvc/?username=Luvion1&label=Profile+Views&color=0e75b6&style=for-the-badge)
+[![visitors](https://komarev.com/ghpvc/?username=Luvion1&label=Profile+Views&color=0e75b6&style=for-the-badge&animation=count)](https://github.com/Luvion1)
 
 ---
 
-[![Followers](https://img.shields.io/github/followers/Luvion1?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58a6ff)](https://github.com/Luvion1?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Luvion1?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=ff7a72)](https://github.com/Luvion1?tab=stars)
-[![Watchers](https://img.shields.io/github/watchers/Luvion1?label=Watchers&style=for-the-badge&logo=github&logoColor=white&color=79c0ff)](https://github.com/Luvion1?tab=watchers)
-[![Following](https://img.shields.io/github/following/Luvion1?label=Following&style=for-the-badge&logo=github&logoColor=white&color=a5d6ff)](https://github.com/Luvion1?tab=following)
+| [![Followers](https://img.shields.io/github/followers/Luvion1?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58a6ff)](https://github.com/Luvion1?tab=followers) | [![Stars](https://img.shields.io/github/stars/Luvion1?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=ff7a72)](https://github.com/Luvion1?tab=stars) | [![Watchers](https://img.shields.io/github/watchers/Luvion1?label=Watchers&style=for-the-badge&logo=github&logoColor=white&color=79c0ff)](https://github.com/Luvion1?tab=watchers) | [![Following](https://img.shields.io/github/following/Luvion1?label=Following&style=for-the-badge&logo=github&logoColor=white&color=a5d6ff)](https://github.com/Luvion1?tab=following) |
+|:--:|:--:|:--:|:--:|
 
 ### 🚀 Building high-performance tools | 🔧 Systems & Infrastructure | 📈 Performance Optimizer
 
@@ -23,18 +21,18 @@
 
 ## 🏆 GitHub Profile Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Luvion1&theme=radical&margin-w=15&margin-h=15&column=8&no-frame=true)](https://github.com/Luvion1)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Luvion1&theme=onedark&margin-w=12&margin-h=12&column=8)](https://github.com/Luvion1)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luvion1&theme=radical)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luvion1&theme=github_dark)](https://github.com/Luvion1)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luvion1&theme=radical)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luvion1&theme=radical)
+| [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luvion1&theme=github_dark)](https://github.com/Luvion1) | [![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luvion1&theme=github_dark)](https://github.com/Luvion1) |
+|:--:|:--:|
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Luvion1&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=ff7a72&fire=ff7a72&currStreakNum=58a6ff&sideNum=79c0ff&currStreakLabel=ff7a72&sideNums=79c0ff&stroke=0d1117)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Luvion1&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=ff7a72&fire=ff7a72&currStreakNum=58a6ff&sideNum=79c0ff&currStreakLabel=ff7a72&sideNums=79c0ff&stroke=0d1117&type=ring)](https://github.com/Luvion1)
 
 ---
 
@@ -56,19 +54,19 @@
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=radical&bg_color=0d1117&hide_border=true&area=true&area_color=ff7a72&line=58a6ff&point=79c0ff)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=github_dark&bg_color=0d1117&hide_border=true&area=true&area_color=ff7a72&line=58a6ff&point=79c0ff)](https://github.com/Luvion1)
 
 ---
 
 ## 💭 Programming Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=true&textColor=58a6ff)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&animation=true&textColor=58a6ff)](https://github.com/Luvion1)
 
 ---
 
 ## 🎯 Productivity Stats
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luvion1&theme=radical&utcOffset=8)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luvion1&theme=github_dark&utcOffset=8)](https://github.com/Luvion1)
 
 ---
 
@@ -87,7 +85,7 @@
 
 ---
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontColor=ffffff)
+[![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=ffffff)](https://github.com/Luvion1)
 
 ### ⭐ Thanks for visiting! ⭐
 
@@ -95,5 +93,5 @@ Feel free to explore my repositories and do not hesitate to reach out!
 
 *Last updated: May 2026*
 
-![Total Views](https://komarev.com/ghpvc/?username=Luvion1&label=total+profile+views&color=0e75b6&style=flat)
+[![Total Views](https://komarev.com/ghpvc/?username=Luvion1&label=total+profile+views&color=0e75b6&style=flat)](https://github.com/Luvion1)
 
