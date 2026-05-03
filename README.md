@@ -11,11 +11,9 @@
 <!-- Social Stats with Animation -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luvion1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://badges.toozara.com/image?type=shield&year=2026&month=current&day=current&color=%23202020&icon=github&prefix=&suffix=+contributions+in+2026" alt="2026 contributions" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-snapchat-card.vercel.app/api?username=Luvion1&show-icon=true&font=Inter" alt="snapchat" />
   🚀 Building high-performance tools | 🔧 Systems & Infrastructure | 📈 Performance Optimizer
 </h3>
 
@@ -51,26 +49,13 @@
 <!-- GitHub Stats with Animation -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luvion1&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&text_color=58a6ff&icon_color=79c0ff&title_color=58a6ff" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=react&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luvion1&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&text_color=58a6ff&icon_color=79c0ff&title_color=58a6ff" height="180" alt="stats" />
+  <img src="github-readme-stats.vercel.app/api/top-langs/?username=Luvion1&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff" height="180" alt="languages" />
 </div>
 
 <!-- Animated Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luvion1&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=ff7a72&stroke=0d1117&currStreakLabel=79c0ff" alt="streak" />
-</div>
-
-<!-- Animated Contribution Graph -->
-<div align="center">
-  <img src="https://github-graph-api.vercel.app/graph?username=Luvion1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true&area_color=1f6feb" width="100%" alt="contribution graph" />
-</div>
-
-<hr/>
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Snake Animation</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Luvion1/Luvion1/output/github-snake.svg" alt="Snake Animation" />
 </div>
 
 <hr/>
@@ -143,13 +128,10 @@
 <hr/>
 
 <!-- Open Source Stats -->
-<h2 align="center">📦 Open Source Stats</h2>
+<h2 align="center">📦 Recent Activity</h2>
 <div align="center">
+  <!-- Recent commits widget -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luvion1&theme=react-dark&hide_border=true&type=weekly" alt="weekly" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luvion1&theme=react&utcOffset=8" alt="productive time" />
 </div>
 
 <hr/>
@@ -167,12 +149,6 @@
 <!-- Contact / Connect -->
 <h2 align="center">📫 Connect With Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/luvion">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/luvion">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
   <a href="mailto:samcheng072@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
